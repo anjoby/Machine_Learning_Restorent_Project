@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import LabelEncoder
 
-file_path = r"C:\Users\anjoj\Downloads\Dataset.csv"
+file_path = r"D:\ML INTERN\Dataset .csv"
 data = pd.read_csv(file_path)
 
 columns_to_remove = [

@@ -1,0 +1,383 @@
+,precision,recall,f1-score,support
+Afghani,0.0,0.0,0.0,1.0
+American,0.0,0.0,0.0,6.0
+"American, BBQ, Burger",0.0,0.0,0.0,1.0
+"American, BBQ, Steak",0.0,0.0,0.0,1.0
+"American, Bar Food",1.0,1.0,1.0,1.0
+"American, Breakfast",0.0,0.0,0.0,2.0
+"American, Breakfast, Burger",0.0,0.0,0.0,1.0
+"American, Burger",0.0,0.0,0.0,3.0
+"American, Burger, Sandwich",0.0,0.0,0.0,1.0
+"American, Fast Food",0.0,0.0,0.0,4.0
+"American, Fast Food, Burger",1.0,0.5,0.6666666666666666,2.0
+"American, Fast Food, Salad, Healthy Food",0.6666666666666666,0.9230769230769231,0.7741935483870968,13.0
+"American, Italian",0.0,0.0,0.0,1.0
+"American, Italian, Pizza",1.0,1.0,1.0,1.0
+"American, Mexican",0.0,0.0,0.0,1.0
+"American, Pizza, Bar Food",0.0,0.0,0.0,1.0
+"American, Seafood, Steak",0.0,0.0,0.0,2.0
+"American, Southern",0.0,0.0,0.0,1.0
+"American, Steak",0.0,0.0,0.0,1.0
+"American, Tex-Mex",0.0,0.0,0.0,1.0
+Asian,0.0,0.0,0.0,4.0
+"Asian, Chinese",0.0,0.0,0.0,2.0
+"Asian, Thai",0.0,0.0,0.0,1.0
+"Asian, Thai, Chinese",0.0,0.0,0.0,1.0
+BBQ,0.0,0.0,0.0,2.0
+"BBQ, Burger, Seafood",0.0,0.0,0.0,0.0
+Bakery,0.15151515151515152,0.11363636363636363,0.12987012987012986,44.0
+"Bakery, Cafe",0.0,0.0,0.0,1.0
+"Bakery, Chinese",0.0,0.0,0.0,1.0
+"Bakery, Chinese, Fast Food",0.0,0.0,0.0,1.0
+"Bakery, Desserts",0.26666666666666666,0.23529411764705882,0.25,34.0
+"Bakery, Desserts, Beverages",0.0,0.0,0.0,1.0
+"Bakery, Desserts, Cafe",0.0,0.0,0.0,1.0
+"Bakery, Desserts, Fast Food",0.16666666666666666,0.15384615384615385,0.16,13.0
+"Bakery, Fast Food",0.0,0.0,0.0,22.0
+"Bakery, Fast Food, Chinese",0.0,0.0,0.0,1.0
+"Bakery, Fast Food, Desserts",0.0,0.0,0.0,1.0
+"Bakery, Italian, Chinese, Mexican",0.0,0.0,0.0,1.0
+"Bakery, Mithai",0.0,0.0,0.0,1.0
+Bar Food,0.0,0.0,0.0,1.0
+"Bar Food, Brazilian",0.0,0.0,0.0,0.0
+Bengali,0.0,0.0,0.0,1.0
+"Bengali, North Indian",0.0,0.0,0.0,1.0
+"Bengali, Seafood",0.0,0.0,0.0,0.0
+Beverages,0.6,0.5454545454545454,0.5714285714285714,11.0
+"Beverages, Fast Food",0.0,0.0,0.0,3.0
+Bihari,0.0,0.0,0.0,1.0
+Biryani,0.2857142857142857,0.18181818181818182,0.2222222222222222,11.0
+"Biryani, Hyderabadi",0.0,0.0,0.0,2.0
+"Biryani, Mughlai",0.0,0.0,0.0,4.0
+"Biryani, North Indian",0.3333333333333333,0.25,0.2857142857142857,4.0
+"Biryani, North Indian, Hyderabadi",0.0,0.0,0.0,1.0
+"Biryani, North Indian, Mughlai",0.0,0.0,0.0,1.0
+Brazilian,0.4,1.0,0.5714285714285714,2.0
+"Brazilian, Bar Food",0.0,0.0,0.0,1.0
+Breakfast,0.0,0.0,0.0,1.0
+"Breakfast, Burger",0.0,0.0,0.0,1.0
+"Breakfast, Sandwich",0.0,0.0,0.0,0.0
+British,0.0,0.0,0.0,1.0
+Burger,0.0,0.0,0.0,1.0
+"Burger, American",0.0,0.0,0.0,1.0
+"Burger, American, Fast Food",0.0,0.0,0.0,1.0
+"Burger, Desserts, Fast Food",0.2,0.2,0.2,5.0
+"Burger, Fast Food",0.375,0.3333333333333333,0.35294117647058826,9.0
+"Burger, Fast Food, Chinese",0.0,0.0,0.0,1.0
+"Burger, Seafood, Steak",0.0,0.0,0.0,1.0
+"Burmese, Chinese, Japanese, Malaysian, Thai",1.0,1.0,1.0,1.0
+Cafe,0.4431818181818182,0.65,0.527027027027027,60.0
+"Cafe, Bakery",0.0,0.0,0.0,3.0
+"Cafe, Bakery, Desserts",0.0,0.0,0.0,1.0
+"Cafe, Beverages",0.0,0.0,0.0,1.0
+"Cafe, Chinese",0.0,0.0,0.0,1.0
+"Cafe, Chinese, Fast Food",0.0,0.0,0.0,1.0
+"Cafe, Chinese, Italian",0.0,0.0,0.0,1.0
+"Cafe, Continental",0.0,0.0,0.0,3.0
+"Cafe, Continental, Chinese",0.0,0.0,0.0,1.0
+"Cafe, Continental, Fast Food, Italian",0.0,0.0,0.0,0.0
+"Cafe, Continental, Italian",0.0,0.0,0.0,2.0
+"Cafe, Desserts",0.0,0.0,0.0,2.0
+"Cafe, Desserts, Bakery",0.0,0.0,0.0,0.0
+"Cafe, European",0.0,0.0,0.0,1.0
+"Cafe, Fast Food",0.0,0.0,0.0,4.0
+"Cafe, Fast Food, Italian, Chinese",0.0,0.0,0.0,0.0
+"Cafe, Fast Food, North Indian",0.0,0.0,0.0,1.0
+"Cafe, Healthy Food, Continental",0.0,0.0,0.0,0.0
+"Cafe, Italian",0.0,0.0,0.0,3.0
+"Cafe, Italian, Chinese",0.0,0.0,0.0,1.0
+"Cafe, Italian, Continental",0.0,0.0,0.0,1.0
+"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",0.0,0.0,0.0,1.0
+"Cafe, Italian, Lebanese",1.0,1.0,1.0,1.0
+"Cafe, Mexican",0.0,0.0,0.0,0.0
+"Cafe, North Indian, Chinese",0.0,0.0,0.0,2.0
+"Cafe, North Indian, Continental",0.0,0.0,0.0,1.0
+"Cafe, North Indian, Continental, Chinese",0.0,0.0,0.0,0.0
+"Cafe, Tea",0.5,0.75,0.6,4.0
+Chinese,0.2033898305084746,0.16901408450704225,0.18461538461538463,71.0
+"Chinese, Asian",0.0,0.0,0.0,1.0
+"Chinese, Asian, Thai",0.0,0.0,0.0,1.0
+"Chinese, Continental",0.0,0.0,0.0,1.0
+"Chinese, Continental, North Indian",0.0,0.0,0.0,1.0
+"Chinese, Fast Food",0.0,0.0,0.0,24.0
+"Chinese, Fast Food, North Indian",0.0,0.0,0.0,1.0
+"Chinese, Italian, Fast Food",0.0,0.0,0.0,1.0
+"Chinese, Italian, North Indian",0.0,0.0,0.0,1.0
+"Chinese, Japanese, Thai",0.0,0.0,0.0,1.0
+"Chinese, Mughlai",0.0,0.0,0.0,1.0
+"Chinese, Mughlai, North Indian",0.0,0.0,0.0,2.0
+"Chinese, North Indian",0.2,0.09523809523809523,0.12903225806451613,21.0
+"Chinese, North Indian, Fast Food",0.0,0.0,0.0,1.0
+"Chinese, North Indian, Fast Food, Italian",0.0,0.0,0.0,1.0
+"Chinese, North Indian, Italian",0.0,0.0,0.0,1.0
+"Chinese, North Indian, Mughlai",0.0,0.0,0.0,2.0
+"Chinese, North Indian, Mughlai, Continental",0.0,0.0,0.0,1.0
+"Chinese, North Indian, South Indian",0.0,0.0,0.0,1.0
+"Chinese, Seafood",0.0,0.0,0.0,1.0
+"Chinese, Seafood, Asian",0.0,0.0,0.0,1.0
+"Chinese, Seafood, Japanese",0.0,0.0,0.0,1.0
+"Chinese, South Indian",0.0,0.0,0.0,2.0
+"Chinese, South Indian, Fast Food",0.0,0.0,0.0,1.0
+"Chinese, South Indian, North Indian",0.0,0.0,0.0,1.0
+"Chinese, Thai",0.25,0.1,0.14285714285714285,10.0
+"Chinese, Thai, Asian",1.0,0.5,0.6666666666666666,2.0
+"Chinese, Thai, Fast Food",0.0,0.0,0.0,1.0
+"Chinese, Thai, Japanese",0.0,0.0,0.0,1.0
+"Chinese, Thai, Seafood",0.0,0.0,0.0,1.0
+"Chinese, Tibetan",0.0,0.0,0.0,1.0
+Continental,0.0,0.0,0.0,4.0
+"Continental, American",0.0,0.0,0.0,1.0
+"Continental, American, Asian, North Indian",0.0,0.0,0.0,1.0
+"Continental, American, Italian",0.0,0.0,0.0,1.0
+"Continental, Chinese, North Indian",0.0,0.0,0.0,2.0
+"Continental, European",0.0,0.0,0.0,0.0
+"Continental, European, North Indian",0.0,0.0,0.0,0.0
+"Continental, Fast Food",0.0,0.0,0.0,1.0
+"Continental, Fast Food, Italian",0.0,0.0,0.0,0.0
+"Continental, Goan, Seafood, North Indian",0.0,0.0,0.0,0.0
+"Continental, Healthy Food",0.0,0.0,0.0,1.0
+"Continental, Italian",0.0,0.0,0.0,3.0
+"Continental, Italian, North Indian",0.0,0.0,0.0,1.0
+"Continental, North Indian",0.0,0.0,0.0,3.0
+"Continental, North Indian, Asian",0.0,0.0,0.0,1.0
+"Continental, North Indian, Chinese",0.0,0.0,0.0,2.0
+"Continental, North Indian, Italian",0.0,0.0,0.0,1.0
+"Continental, North Indian, Mughlai, Burmese",0.0,0.0,0.0,0.0
+Desserts,0.14285714285714285,0.09090909090909091,0.1111111111111111,11.0
+"Desserts, Bakery",0.0,0.0,0.0,2.0
+"Desserts, Bakery, Fast Food",0.0,0.0,0.0,1.0
+"Desserts, Beverages",0.0,0.0,0.0,3.0
+"Desserts, Cafe",0.0,0.0,0.0,1.0
+"Desserts, Fast Food",0.0,0.0,0.0,1.0
+"Desserts, Ice Cream",0.0,0.0,0.0,5.0
+"Desserts, Ice Cream, Fast Food",0.0,0.0,0.0,1.0
+"Desserts, Street Food",0.0,0.0,0.0,2.0
+European,0.0,0.0,0.0,2.0
+"European, Chinese, North Indian, Italian",1.0,1.0,1.0,1.0
+"European, Continental",0.0,0.0,0.0,1.0
+"European, Italian",0.0,0.0,0.0,1.0
+"European, Mediterranean, North Indian",0.5,1.0,0.6666666666666666,1.0
+Fast Food,0.19101123595505617,0.23943661971830985,0.2125,71.0
+"Fast Food, Bakery",0.0,0.0,0.0,2.0
+"Fast Food, Beverages",0.0,0.0,0.0,9.0
+"Fast Food, Burger",0.5,0.7272727272727273,0.5925925925925926,11.0
+"Fast Food, Chinese",0.0,0.0,0.0,8.0
+"Fast Food, Chinese, Bakery",0.0,0.0,0.0,1.0
+"Fast Food, Chinese, North Indian",0.0,0.0,0.0,0.0
+"Fast Food, Desserts",0.0,0.0,0.0,1.0
+"Fast Food, Italian",0.0,0.0,0.0,2.0
+"Fast Food, Italian, Pizza",0.0,0.0,0.0,1.0
+"Fast Food, North Indian",0.0,0.0,0.0,9.0
+"Fast Food, North Indian, Chinese",0.0,0.0,0.0,2.0
+"Fast Food, North Indian, South Indian",0.0,0.0,0.0,1.0
+"Fast Food, Pizza",0.0,0.0,0.0,2.0
+"Fast Food, Street Food",0.0,0.0,0.0,4.0
+"Fast Food, Street Food, Beverages",0.0,0.0,0.0,0.0
+"Fast Food, Turkish",0.0,0.0,0.0,1.0
+Filipino,1.0,1.0,1.0,1.0
+Finger Food,0.19230769230769232,0.5,0.2777777777777778,10.0
+"Finger Food, North Indian, Chinese",0.0,0.0,0.0,1.0
+"Finger Food, North Indian, Italian",0.0,0.0,0.0,1.0
+French,1.0,0.5,0.6666666666666666,2.0
+German,0.0,0.0,0.0,1.0
+Gujarati,0.0,0.0,0.0,1.0
+"Hawaiian, Seafood, Steak",0.5,1.0,0.6666666666666666,1.0
+Healthy Food,0.0,0.0,0.0,3.0
+"Healthy Food, Beverages",0.0,0.0,0.0,1.0
+"Healthy Food, Continental",0.0,0.0,0.0,1.0
+"Healthy Food, Juices",0.0,0.0,0.0,1.0
+"Healthy Food, Salad",0.0,0.0,0.0,2.0
+"Hyderabadi, North Indian, Biryani",0.0,0.0,0.0,1.0
+Ice Cream,0.42857142857142855,0.2,0.2727272727272727,15.0
+"Ice Cream, Beverages",0.0,0.0,0.0,1.0
+"Ice Cream, Beverages, Fast Food",0.0,0.0,0.0,1.0
+"Ice Cream, Desserts",0.4,0.35294117647058826,0.375,17.0
+"Ice Cream, Desserts, Beverages",0.0,0.0,0.0,1.0
+Indian,0.4,0.5,0.4444444444444444,4.0
+"Indian, Curry",0.0,0.0,0.0,1.0
+"Indian, North Indian",0.0,0.0,0.0,1.0
+"Indian, Street Food",0.0,0.0,0.0,1.0
+International,0.0,0.0,0.0,1.0
+Italian,0.0,0.0,0.0,11.0
+"Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",0.0,0.0,0.0,1.0
+"Italian, Continental",0.0,0.0,0.0,1.0
+"Italian, Continental, Cafe",0.0,0.0,0.0,0.0
+"Italian, Continental, European, Cafe",1.0,1.0,1.0,1.0
+"Italian, Fast Food",0.0,0.0,0.0,2.0
+"Italian, Mediterranean, Pizza",0.0,0.0,0.0,1.0
+"Italian, North Indian, Continental",0.0,0.0,0.0,1.0
+"Italian, Pizza",0.0,0.0,0.0,5.0
+"Italian, Pizza, Bakery",1.0,0.5,0.6666666666666666,2.0
+"Italian, Pizza, Fast Food",0.875,1.0,0.9333333333333333,7.0
+"Italian, Pizza, Sandwich",0.0,0.0,0.0,1.0
+Japanese,0.0,0.0,0.0,4.0
+"Japanese, Korean",0.0,0.0,0.0,1.0
+"Japanese, Steak, Sushi",0.0,0.0,0.0,2.0
+"Japanese, Sushi",0.3333333333333333,0.25,0.2857142857142857,4.0
+"Japanese, Sushi, Thai",0.0,0.0,0.0,1.0
+Juices,0.0,0.0,0.0,1.0
+Kashmiri,0.0,0.0,0.0,2.0
+Kebab,0.0,0.0,0.0,0.0
+"Kebab, Turkish Pizza",0.0,0.0,0.0,1.0
+Kerala,0.0,0.0,0.0,1.0
+"Kerala, South Indian",0.0,0.0,0.0,1.0
+Korean,0.0,0.0,0.0,1.0
+Latin American,0.0,0.0,0.0,0.0
+Lebanese,0.0,0.0,0.0,2.0
+"Lebanese, Arabian",0.0,0.0,0.0,1.0
+"Lebanese, Arabian, Moroccan",0.0,0.0,0.0,1.0
+"Lebanese, Mediterranean, Middle Eastern, Arabian",1.0,1.0,1.0,1.0
+Lucknowi,0.0,0.0,0.0,1.0
+Maharashtrian,0.0,0.0,0.0,1.0
+Mediterranean,0.0,0.0,0.0,1.0
+"Mediterranean, Italian",0.0,0.0,0.0,1.0
+"Mediterranean, Italian, European",0.0,0.0,0.0,1.0
+Mexican,0.11764705882352941,0.2857142857142857,0.16666666666666666,7.0
+"Mexican, American, Italian",0.0,0.0,0.0,0.0
+"Mexican, American, Tex-Mex, Burger",1.0,1.0,1.0,1.0
+"Mexican, Fast Food",1.0,1.0,1.0,1.0
+"Mexican, Italian",0.0,0.0,0.0,1.0
+"Middle Eastern, Mediterranean, North Indian",0.0,0.0,0.0,0.0
+Mithai,0.0,0.0,0.0,14.0
+"Mithai, Bakery",0.0,0.0,0.0,1.0
+"Mithai, Chinese",0.0,0.0,0.0,1.0
+"Mithai, Fast Food",0.0,0.0,0.0,2.0
+"Mithai, North Indian",0.0,0.0,0.0,1.0
+"Mithai, North Indian, South Indian, Street Food",1.0,1.0,1.0,1.0
+"Mithai, South Indian, Street Food",0.0,0.0,0.0,1.0
+"Mithai, Street Food",0.2631578947368421,0.21739130434782608,0.23809523809523808,23.0
+"Mithai, Street Food, Fast Food",0.0,0.0,0.0,0.0
+"Mithai, Street Food, North Indian",0.0,0.0,0.0,1.0
+Modern Indian,0.5,0.5,0.5,2.0
+Mughlai,0.2222222222222222,0.09523809523809523,0.13333333333333333,21.0
+"Mughlai, Biryani",0.0,0.0,0.0,2.0
+"Mughlai, Chinese",0.0,0.0,0.0,1.0
+"Mughlai, Fast Food",0.0,0.0,0.0,1.0
+"Mughlai, North Indian",0.1,0.08333333333333333,0.09090909090909091,12.0
+"Mughlai, North Indian, Chinese",0.0,0.0,0.0,4.0
+Naga,0.0,0.0,0.0,1.0
+Nepalese,0.0,0.0,0.0,1.0
+North Indian,0.22103004291845493,0.5508021390374331,0.31546707503828486,187.0
+"North Indian, Asian, Continental",0.0,0.0,0.0,1.0
+"North Indian, Asian, European",0.0,0.0,0.0,0.0
+"North Indian, Bengali",0.0,0.0,0.0,1.0
+"North Indian, Biryani",0.0,0.0,0.0,3.0
+"North Indian, Biryani, Chinese, Fast Food",1.0,1.0,1.0,1.0
+"North Indian, Chinese",0.1134020618556701,0.21568627450980393,0.14864864864864866,102.0
+"North Indian, Chinese, Cafe",0.0,0.0,0.0,1.0
+"North Indian, Chinese, Continental",0.0,0.0,0.0,13.0
+"North Indian, Chinese, Continental, Fast Food",0.0,0.0,0.0,1.0
+"North Indian, Chinese, Continental, Italian",0.0,0.0,0.0,3.0
+"North Indian, Chinese, Continental, Thai",0.0,0.0,0.0,1.0
+"North Indian, Chinese, Fast Food",0.0,0.0,0.0,14.0
+"North Indian, Chinese, Finger Food",0.0,0.0,0.0,1.0
+"North Indian, Chinese, Italian",0.0,0.0,0.0,3.0
+"North Indian, Chinese, Italian, Continental",0.5,0.5,0.5,2.0
+"North Indian, Chinese, Mughlai",0.0,0.0,0.0,14.0
+"North Indian, Chinese, South Indian",0.0,0.0,0.0,7.0
+"North Indian, Chinese, South Indian, Fast Food",0.0,0.0,0.0,2.0
+"North Indian, Chinese, South Indian, Mithai",0.0,0.0,0.0,1.0
+"North Indian, Chinese, South Indian, Seafood, Chettinad",0.0,0.0,0.0,1.0
+"North Indian, Chinese, Street Food",0.0,0.0,0.0,1.0
+"North Indian, Chinese, Thai",0.0,0.0,0.0,1.0
+"North Indian, Continental",0.0,0.0,0.0,6.0
+"North Indian, Continental, Asian",0.0,0.0,0.0,2.0
+"North Indian, Continental, Chinese",0.0,0.0,0.0,4.0
+"North Indian, Continental, Chinese, Italian",0.0,0.0,0.0,1.0
+"North Indian, Continental, Fast Food",0.0,0.0,0.0,1.0
+"North Indian, Continental, Italian",0.0,0.0,0.0,2.0
+"North Indian, Continental, Mexican, Italian",0.0,0.0,0.0,0.0
+"North Indian, Continental, Mughlai, Asian",0.0,0.0,0.0,1.0
+"North Indian, European",0.0,0.0,0.0,1.0
+"North Indian, European, Mediterranean",0.0,0.0,0.0,1.0
+"North Indian, Fast Food",0.25,0.13333333333333333,0.17391304347826086,15.0
+"North Indian, Fast Food, Chinese",0.0,0.0,0.0,2.0
+"North Indian, Fast Food, Italian, Asian",0.0,0.0,0.0,1.0
+"North Indian, Fast Food, Mughlai",0.0,0.0,0.0,1.0
+"North Indian, Fast Food, South Indian",0.0,0.0,0.0,1.0
+"North Indian, Italian",0.0,0.0,0.0,1.0
+"North Indian, Italian, Chinese",0.0,0.0,0.0,1.0
+"North Indian, Italian, Chinese, Fast Food",0.0,0.0,0.0,0.0
+"North Indian, Italian, Continental",0.0,0.0,0.0,2.0
+"North Indian, Mediterranean, Asian",0.0,0.0,0.0,1.0
+"North Indian, Mithai",0.0,0.0,0.0,1.0
+"North Indian, Mughlai",0.14563106796116504,0.22388059701492538,0.17647058823529413,67.0
+"North Indian, Mughlai, Biryani",0.0,0.0,0.0,2.0
+"North Indian, Mughlai, Chinese",0.10810810810810811,0.1,0.1038961038961039,40.0
+"North Indian, Mughlai, Chinese, Continental",0.0,0.0,0.0,1.0
+"North Indian, Mughlai, Chinese, Fast Food",0.0,0.0,0.0,2.0
+"North Indian, Mughlai, Chinese, Italian",0.0,0.0,0.0,0.0
+"North Indian, Mughlai, Chinese, Seafood",0.0,0.0,0.0,1.0
+"North Indian, Mughlai, Chinese, South Indian",0.0,0.0,0.0,1.0
+"North Indian, Mughlai, Fast Food",0.0,0.0,0.0,1.0
+"North Indian, Rajasthani",0.0,0.0,0.0,1.0
+"North Indian, South Indian",0.0,0.0,0.0,7.0
+"North Indian, South Indian, Chinese",0.0,0.0,0.0,9.0
+"North Indian, South Indian, Chinese, Fast Food",0.0,0.0,0.0,3.0
+"North Indian, South Indian, Chinese, Mithai",0.0,0.0,0.0,1.0
+"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",0.6666666666666666,0.6666666666666666,0.6666666666666666,3.0
+"North Indian, South Indian, Fast Food",0.0,0.0,0.0,2.0
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",1.0,0.5,0.6666666666666666,2.0
+"North Indian, South Indian, Mughlai",0.0,0.0,0.0,1.0
+"North Indian, South Indian, Street Food",0.0,0.0,0.0,1.0
+"North Indian, South Indian, Street Food, Mithai",0.0,0.0,0.0,1.0
+"North Indian, Street Food",0.0,0.0,0.0,5.0
+"North Indian, Street Food, Fast Food",0.0,0.0,0.0,1.0
+"North Indian, Street Food, Mithai",0.0,0.0,0.0,1.0
+Pakistani,0.0,0.0,0.0,0.0
+"Parsi, Iranian",1.0,1.0,1.0,1.0
+Pizza,0.0,0.0,0.0,11.0
+"Pizza, Bar Food",0.0,0.0,0.0,1.0
+"Pizza, Cafe, Italian",1.0,1.0,1.0,1.0
+"Pizza, Fast Food",0.7619047619047619,0.6153846153846154,0.6808510638297872,26.0
+"Pizza, Italian",0.0,0.0,0.0,4.0
+"Pizza, Sandwich",0.0,0.0,0.0,1.0
+"Portuguese, African",0.0,0.0,0.0,1.0
+Rajasthani,0.0,0.0,0.0,1.0
+Raw Meats,0.0,0.0,0.0,1.0
+"Raw Meats, Fast Food",0.0,0.0,0.0,9.0
+"Raw Meats, Fast Food, North Indian",0.0,0.0,0.0,2.0
+"Raw Meats, North Indian",0.0,0.0,0.0,1.0
+"Raw Meats, North Indian, Fast Food",0.7142857142857143,0.5,0.5882352941176471,10.0
+Seafood,0.0,0.0,0.0,3.0
+"Seafood, Italian",0.0,0.0,0.0,0.0
+"Seafood, North Indian",0.0,0.0,0.0,1.0
+"Seafood, Sushi",0.0,0.0,0.0,0.0
+"Seafood, Western",0.0,0.0,0.0,0.0
+South Indian,0.0,0.0,0.0,23.0
+"South Indian, Biryani",0.0,0.0,0.0,1.0
+"South Indian, Chinese",0.0,0.0,0.0,7.0
+"South Indian, Chinese, Fast Food",0.0,0.0,0.0,1.0
+"South Indian, Chinese, North Indian",0.0,0.0,0.0,1.0
+"South Indian, Fast Food",0.0,0.0,0.0,2.0
+"South Indian, Fast Food, Chinese",0.0,0.0,0.0,0.0
+"South Indian, North Indian",0.0,0.0,0.0,4.0
+"South Indian, North Indian, Chinese",0.6,0.3333333333333333,0.42857142857142855,9.0
+Southern,0.0,0.0,0.0,1.0
+"Spanish, Tapas",0.0,0.0,0.0,1.0
+Steak,0.0,0.0,0.0,2.0
+Street Food,0.17073170731707318,0.23333333333333334,0.19718309859154928,30.0
+"Street Food, Beverages",0.0,0.0,0.0,1.0
+"Street Food, Chinese",0.0,0.0,0.0,1.0
+"Street Food, Desserts",0.0,0.0,0.0,1.0
+"Street Food, Fast Food",0.0,0.0,0.0,2.0
+"Street Food, Mithai",0.0,0.0,0.0,4.0
+"Street Food, North Indian",0.0,0.0,0.0,3.0
+"Street Food, North Indian, South Indian, Mithai",0.0,0.0,0.0,1.0
+"Street Food, South Indian",0.0,0.0,0.0,1.0
+"Street Food, South Indian, Mithai",0.0,0.0,0.0,1.0
+"Sunda, Indonesian",1.0,1.0,1.0,1.0
+Sushi,0.0,0.0,0.0,1.0
+"Sushi, Asian",0.0,0.0,0.0,1.0
+Tea,0.0,0.0,0.0,1.0
+"Tea, Fast Food",0.0,0.0,0.0,2.0
+Thai,0.0,0.0,0.0,3.0
+"Thai, Asian",0.0,0.0,0.0,0.0
+"Thai, Chinese",0.0,0.0,0.0,1.0
+"Tibetan, Chinese",0.0,0.0,0.0,3.0
+"Tibetan, Chinese, North Indian",0.0,0.0,0.0,0.0
+Turkish,0.0,0.0,0.0,1.0
+Vietnamese,0.0,0.0,0.0,0.0
+accuracy,0.2189957652752571,0.2189957652752571,0.2189957652752571,0.2189957652752571
+macro avg,0.09224275081550902,0.09054186998463166,0.08807943309374938,1653.0
+weighted avg,0.1744349947072661,0.2189957652752571,0.1826848524812904,1653.0

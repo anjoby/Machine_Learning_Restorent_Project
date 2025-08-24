@@ -10,7 +10,7 @@ from folium.plugins import MarkerCluster  # to group map markers
 # ------------------------------
 
 # 📄 This is the file path to the data file on my computer
-my_file = r"C:\Users\anjoj\Downloads\Dataset.csv"
+my_file = r"D:\ML INTERN\Dataset .csv"
 
 # Let's read the CSV file using pandas
 try:

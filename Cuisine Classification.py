@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 
-data = pd.read_csv(r"C:\Users\anjoj\Downloads\Dataset.csv")
+data = pd.read_csv(r"D:\ML INTERN\Dataset .csv")
 
 data = data.dropna(subset=['Cuisines'])
 

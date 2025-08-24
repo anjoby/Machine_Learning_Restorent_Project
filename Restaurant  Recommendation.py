@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-csv_file = "C:/Users/anjoj/Downloads/Dataset.csv"
+csv_file = "D:\ML INTERN\Dataset .csv"
 
 restaurants = pd.read_csv(csv_file)
 
